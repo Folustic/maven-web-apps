@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Folustic Technology Releases Nexus Repository</name>
 	      <url> http://54.147.144.235:8081/repository/jerg-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Folustic Technology Snapshot Nexus Repository </name>
 	      <url>http://54.147.144.235:8081/repository/jerg-bts-snapdhot/</url>
 	    </snapshotRepository>
 	    
