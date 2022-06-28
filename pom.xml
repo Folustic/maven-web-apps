@@ -97,15 +97,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Folustic Technology Releases Nexus Repository</name>
-	      <url> http://54.147.144.235:8081/repository/jerg-bts-releases/</url>
+	      <url>http://44.204.36.15:8081/repository/ABC-btsreleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Folustic Technology Snapshot Nexus Repository </name>
-	      <url>http://54.147.144.235:8081/repository/jerg-bts-snapdhot/</url>
+	      <url>http://44.204.36.15:8081/repository/ABC-btssnapshot/</url>
 	    </snapshotRepository>
-	    
+		
 	</distributionManagement>
 	
 	<build>
