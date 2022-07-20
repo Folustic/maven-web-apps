@@ -99,9 +99,9 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Folustic Technology Releases Nexus Repository</name>
-	      <url>http://54.172.209.134:8081/repository/pipeline-release//</url>
+	      <url>http://54.172.209.134:8081/repository/pipeline-release/</url>
 	    </repository>
-	    
+			    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Folustic Technology Snapshot Nexus Repository </name>
